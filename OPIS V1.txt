@@ -1,0 +1,23 @@
+Ta aplikacja to generator liczb losowych umożliwiająca genreowanie losowych liczb od 1 do 100.
+Aplikacja ma prawdopodobnie posiadać podane funkcje:
+Logo:
+Graficzny znak rozpoznawczy.
+
+Wielka Nazwa:
+Sformatowana nazwa aplikacji.
+
+TextField:
+Pole tekstowe umożliwiające użytkownikowi wprowadzenie wartości zakresu losowania lub ilości generowanych liczb.
+
+Button "Losuj":
+Przycisk uruchamiający generowanie losowych liczb na podstawie wybranych parametrów.
+
+Dwa Slidery:
+Pierwszy slider określa górną granicę zakresu losowania.
+Obok pierwszego slidera znajduje się napis "Zakres losowania", informujący użytkownika o funkcji tego suwaka.
+Obok drugiego slidera znajduje się napis "Ilość liczb", informujący użytkownika o funkcji tego suwaka.
+Obydwa slidery mają zakres od 1 do 100.
+
+Mały Napis "Witaj użytkowniku!"
+
+Przy naciśnięciu przycisku "Losuj", aplikacja generuje losowe liczby z wybranego zakresu i prezentuje wyniki użytkownikowi. Prosta i intuicyjna konstrukcja interfejsu sprawia, że korzystanie z aplikacji jest łatwe nawet dla osób, które są nowe w obszarze korzystania z generatorów liczb losowych.
